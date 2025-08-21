@@ -4,188 +4,188 @@
 
 | Award | Beer Name | Brewery | Category | City | State | Country |
 |-------|-----------|---------|----------|------|-------|---------|
-| World's Best Altbier | Diebels Das Freundliche Alt 4.9% | Diebels | Altbier | | | Germany |
-| World's Best American Style Brown Ale | Frohenfeld Nantucket 5% | Frohenfeld | American Style Brown Ale | | | Brazil |
-| World's Best Barley Wine | Gulden Draak Classic 10.5% | Gulden Draak | Barley Wine | | | Belgium |
-| Country Winner - Barley Wine | Peiping Machine Brewing Barrel-aged Barley Wine 14% | Peiping Machine Brewing | Barley Wine | | | China |
-| Country Winner - Barley Wine | Harvey's Christmas Ale 7.5% | Harvey's | Barley Wine | | | England |
-| Country Winner - Barley Wine | Daisen B Beer Barley Wine 9% | Daisen B Beer | Barley Wine | | | Japan |
-| World's Best Belgian Style Dubbel | Petrus Dubbel 6.5% | Petrus | Belgian Style Dubbel | | | Belgium |
-| Country Winner - Belgian Style Dubbel | Unibroue Maudite 8% | Unibroue | Belgian Style Dubbel | | | Canada |
-| Country Winner - Belgian Style Dubbel | Kumbat Asura Belgian Beer 7% | Kumbat | Belgian Style Dubbel | | | China |
-| Country Winner - Belgian Style Dubbel | Cap D'Ona Ambree Triple 7.5% | Cap D'Ona | Belgian Style Dubbel | | | France |
-| World's Best Belgian Style Strong | Duivelsbier Dark 8% | Duivelsbier | Belgian Style Strong | | | Belgium |
-| Country Winner - Belgian Style Strong | Unibroue Trois Pistoles 9% | Unibroue | Belgian Style Strong | | | Canada |
-| Country Winner - Belgian Style Strong | Soko's Cosmic Walk 8.5% | Soko's | Belgian Style Strong | | | Chile |
-| Country Winner - Belgian Style Strong | Beijing Sonhoshin & Five Star Beer Co.Ltd The Forbidden City Amber Ale 10% | Beijing Sonhoshin & Five Star Beer Co.Ltd | Belgian Style Strong | | | China |
-| Country Winner - Belgian Style Strong | La Choue Brune 7.5% | La Choue | Belgian Style Strong | | | France |
-| Country Winner - Belgian Style Strong | Hertog Jan Grand Prestige 10% | Hertog Jan | Belgian Style Strong | | | Netherlands |
-| World's Best Belgian Style Triple | Corsendonk Agnus Tripel 7.5% | Corsendonk | Belgian Style Triple | | | Belgium |
-| Country Winner - Belgian Style Triple | Unibroue La Fin Du Monde 9% | Unibroue | Belgian Style Triple | | | Canada |
-| Country Winner - Belgian Style Triple | Beijing Sonhoshin & Five Star Beer Co.Ltd The Forbidden City Strong Ale 8.5% | Beijing Sonhoshin & Five Star Beer Co.Ltd | Belgian Style Triple | | | China |
-| Country Winner - Belgian Style Triple | Sainte Cru Harakiri 8% | Sainte Cru | Belgian Style Triple | | | France |
-| Country Winner - Belgian Style Triple | Hertog Jan Tripel 8.5% | Hertog Jan | Belgian Style Triple | | | Netherlands |
-| Country Winner - Belgian Style Triple | Our Brewery By Get'Er Brewed Prime Time Of Your Life Belgian Triple 8% | Our Brewery By Get'Er Brewed | Belgian Style Triple | | | Ireland |
-| Country Winner - Belgian Style Triple | Birrificio Del Ducato Paradox 8% | Birrificio Del Ducato | Belgian Style Triple | | | Italy |
-| World's Best English Style Brown Ale | Dragon Silver Premium Dark Beer 4.2% | Dragon | English Style Brown Ale | | | Cambodia |
-| Country Winner - English Style Brown Ale | Hobgoblin Ruby 4.5% | Hobgoblin | English Style Brown Ale | | | England |
-| World's Best Mild | Cowboy Trail Brewery Dark Ale 5% | Cowboy Trail Brewery | Mild | | | Canada |
-| Country Winner - Mild | Harvey's Old Ale 3.6% | Harvey's | Mild | | | England |
-| World's Best Strong | Gouden Carolus Classic 8.5% | Gouden Carolus | Strong | | | Belgium |
-| Country Winner - Strong | Tübinger Tübinator 8% | Tübinger | Strong | | | Chile |
-| Country Winner - Strong | Black Sheep Brewery Riggwelter 5.7% | Black Sheep Brewery | Strong | | | England |
-| Country Winner - Strong | Eku 28 11% | Eku | Strong | | | Germany |
-| World's Best Chocolate & Coffee | Db Brewery Yunlin Coffee Stout 6.5% | Db Brewery | Chocolate & Coffee | | | Taiwan |
-| World's Best Flavoured Stout & Porter | The Flying Dutchman Wake The Hell Up You Can Sleep In The Coffin Hazelnut Cappuccino Porter 7.5% | The Flying Dutchman | Flavoured Stout & Porter | | | Belgium |
-| Country Winner - Flavoured Stout & Porter | Cerveja Stannis Antonieta Porter 5.2% | Cerveja Stannis | Flavoured Stout & Porter | | | Brazil |
-| Country Winner - Flavoured Stout & Porter | Sanktgallen Sweet Vanilla Stout 6.4% | Sanktgallen | Flavoured Stout & Porter | | | Japan |
-| Country Winner - Flavoured Stout & Porter | La Rana Dorada Coco Porter 5% | La Rana Dorada | Flavoured Stout & Porter | | | Panama |
-| World's Best Flavoured Wild & Sour Beer | Sampler Love Hurts 3.7% | Sampler | Flavoured Wild & Sour Beer | | | Brazil |
-| Country Winner - Flavoured Wild & Sour Beer | Jing Triple Berry Nectar 4.5% | Jing | Flavoured Wild & Sour Beer | | | China |
-| Country Winner - Flavoured Wild & Sour Beer | Wilde Leeuw Saison Mixte Framboise 6.5% | Wilde Leeuw | Flavoured Wild & Sour Beer | | | France |
-| Country Winner - Flavoured Wild & Sour Beer | Braumarkt Gmbh The Salted Pepper Gose 4.4% | Braumarkt Gmbh | Flavoured Wild & Sour Beer | | | Germany |
-| World's Best Fruit & Vegetable | Gulden Draak Red 8% | Gulden Draak | Fruit & Vegetable | | | Belgium |
-| Country Winner - Fruit & Vegetable | Baden Baden Passion 5.7% | Baden Baden | Fruit & Vegetable | | | Brazil |
-| Country Winner - Fruit & Vegetable | Granville Island False Creek Raspberry Ale 4.5% | Granville Island | Fruit & Vegetable | | | Canada |
-| Country Winner - Fruit & Vegetable | Peiping Machine Brewing Green Bean Paste Wheat Beer 3.7% | Peiping Machine Brewing | Fruit & Vegetable | | | China |
-| Country Winner - Fruit & Vegetable | Octopus Beer Cyprus Grape Ale 9% | Octopus Beer | Fruit & Vegetable | | | Cyprus |
-| Country Winner - Fruit & Vegetable | Brasserie Du Mont Blanc La Bleue 5.8% | Brasserie Du Mont Blanc | Fruit & Vegetable | | | France |
-| Country Winner - Fruit & Vegetable | Schöfferhofer Grapefruit 2.5% | Schöfferhofer | Fruit & Vegetable | | | Germany |
-| Country Winner - Fruit & Vegetable | Spring Valley Brewery Jazzberry 5% | Spring Valley Brewery | Fruit & Vegetable | | | Japan |
-| Country Winner - Fruit & Vegetable | 8.6 Intense Cherry 7.2% | 8.6 | Fruit & Vegetable | | | Netherlands |
-| Country Winner - Fruit & Vegetable | Prison City Tangerine Wit 5% | Prison City | Fruit & Vegetable | | | United States |
-| World's Best Herb & Spice | Circus Herb Tripel 8.5% | Circus | Herb & Spice | | | Belgium |
-| Country Winner - Herb & Spice | No.18 Brewery Osmanthus Oolong Beer 4.2% | No.18 Brewery | Herb & Spice | | | China |
-| Country Winner - Herb & Spice | Cap D'Ona Blonde Gingembre 7% | Cap D'Ona | Herb & Spice | | | France |
-| Country Winner - Herb & Spice | Microbirrificio Artigianale Incanto 21 12 9.2% | Microbirrificio Artigianale | Herb & Spice | | | Italy |
-| Country Winner - Herb & Spice | Libushi Bashamichi Yuzu Bridge 5.5% | Libushi Bashamichi | Herb & Spice | | | Japan |
-| Country Winner - Herb & Spice | Hexbase Taiwan Four Seasons Tpring Tea Ale 5% | Hexbase | Herb & Spice | | | Taiwan |
-| World's Best Honey & Maple Syrup | Whistler Brewing Bear Paw Honey Lager 5% | Whistler Brewing | Honey & Maple Syrup | | | Canada |
-| Country Winner - Honey & Maple Syrup | Bière Du Vexin Véliocasse Ambrée Au Miel 7% | Bière Du Vexin | Honey & Maple Syrup | | | France |
-| World's Best Radlers & Beer Mixes | Opa Bier Radler 2.3% | Opa Bier | Radlers & Beer Mixes | | | Brazil |
-| Country Winner - Radlers & Beer Mixes | Richkat Craft Brewing Lychee Wulong Sour Ale 3.3% | Richkat Craft Brewing | Radlers & Beer Mixes | | | China |
-| Country Winner - Radlers & Beer Mixes | Svijany Yuzu & Bergamot 0.3% | Svijany | Radlers & Beer Mixes | | | Czech Republic |
-| Country Winner - Radlers & Beer Mixes | Cap D'Ona La Clara 3.5% | Cap D'Ona | Radlers & Beer Mixes | | | France |
-| Country Winner - Radlers & Beer Mixes | Mönchshof Natur Radler Blutorange 2.5% | Mönchshof | Radlers & Beer Mixes | | | Germany |
-| Country Winner - Radlers & Beer Mixes | Ushiku Brewing Cranberry Dream 3.5% | Ushiku Brewing | Radlers & Beer Mixes | | | Japan |
-| World's Best Smoke | Gulden Draak Smoke 10.5% | Gulden Draak | Smoke | | | Belgium |
-| Country Winner - Smoke | Cervejaria Salva Salva D' Ouro Bacon 6.5% | Cervejaria Salva | Smoke | | | Brazil |
-| Country Winner - Smoke | Amsterdam Brewing Company Rauchbier 6% | Amsterdam Brewing Company | Smoke | | | Canada |
-| Country Winner - Smoke | Retour De Feu Bière Blonde 6.5% | Retour De Feu | Smoke | | | France |
-| Country Winner - Smoke | Weiherer Rauch 5.3% | Weiherer | Smoke | | | Germany |
-| Country Winner - Smoke | Fujizakura Heights Beer Rauch 5.5% | Fujizakura Heights Beer | Smoke | | | Japan |
-| World's Best Spirit | Gouden Carolus Whisky Infused 11.7% | Gouden Carolus | Spirit | | | Belgium |
-| Country Winner - Spirit | Arber Brewing Le Chasseur 15% | Arber Brewing | Spirit | | | China |
-| Country Winner - Spirit | Cap D'Ona Rousse Au Marron 6.5% | Cap D'Ona | Spirit | | | France |
-| World's Best Wood Aged | Wildshut Bio Sonnenkönig Barrique 13.6% | Wildshut | Wood Aged | | | Austria |
-| Country Winner - Wood Aged | Swiekes Tripppel Whiskey Barrel Aged Edition 2025 9.1% | Swiekes | Wood Aged | | | Belgium |
-| Country Winner - Wood Aged | Daoravida Terminus 2025 15.2% | Daoravida | Wood Aged | | | Brazil |
-| Country Winner - Wood Aged | Microbrasserie Le Trou Du Diable L'impératrice - Brassin Spécial 11.5% | Microbrasserie Le Trou Du Diable | Wood Aged | | | Canada |
-| Country Winner - Wood Aged | Goose Island China Barrel Aged Stout 11% | Goose Island China | Wood Aged | | | China |
-| Country Winner - Wood Aged | Bradfield Brewery Belted Galloway 8.4% | Bradfield Brewery | Wood Aged | | | England |
-| Country Winner - Wood Aged | Cap D'Ona Wood Aged Maury 12.5% | Cap D'Ona | Wood Aged | | | France |
-| Country Winner - Wood Aged | Störtebeker Brauspezialitäten Scotch Ale Holzfassgereift 10% | Störtebeker Brauspezialitäten | Wood Aged | | | Germany |
-| Country Winner - Wood Aged | Mcgill's Brewery An Coireán Barrel Aged Imperial Stout Batch 2 12.1% | Mcgill's Brewery | Wood Aged | | | Ireland |
-| Country Winner - Wood Aged | Keller Holz Barrel Aged Ryewine 12% | Keller Holz | Wood Aged | | | Moldova |
-| Country Winner - Wood Aged | Hertog Jan Vatgerijpt Ierland 12.9% | Hertog Jan | Wood Aged | | | Netherlands |
-| Country Winner - Wood Aged | Innis & Gunn The Original 6.6% | Innis & Gunn | Wood Aged | | | Scotland |
-| Country Winner - Wood Aged | Mahou Barrica Bourbon 6.9% | Mahou | Wood Aged | | | Spain |
-| Country Winner - Wood Aged | Folkes Malt Sessions Fatlagrad Barley Wine No2 15% | Folkes Malt Sessions | Wood Aged | | | Sweden |
-| Country Winner - Wood Aged | Chopfab Selection Oak Wood Red Ale 7% | Chopfab | Wood Aged | | | Switzerland |
-| World's Best American Style IPA | Colossal Brewing Mind Harvest 6% | Colossal Brewing | American Style IPA | | | Australia |
-| Country Winner - American Style IPA | Cerveja Stannis Dear Paula 6.5% | Cerveja Stannis | American Style IPA | | | Brazil |
-| Country Winner - American Style IPA | Stanley Park Brewing Trail Hopper IPA 6.8% | Stanley Park Brewing | American Style IPA | | | Canada |
-| Country Winner - American Style IPA | Loa Minga Loca 6.5% | Loa | American Style IPA | | | Chile |
-| Country Winner - American Style IPA | Hangzhou Cheerday Brewery Indian Pale Ale 6% | Hangzhou Cheerday Brewery | American Style IPA | | | China |
-| Country Winner - American Style IPA | The Chevallier Brewing Company Cornwallis Eye PA 5.6% | The Chevallier Brewing Company | American Style IPA | | | England |
-| Country Winner - American Style IPA | Pyrite IPA 6.5% | Pyrite | American Style IPA | | | France |
-| Country Winner - American Style IPA | Maisel & Friends Urban IPA 5.6% | Maisel & Friends | American Style IPA | | | Germany |
-| Country Winner - American Style IPA | Larkins Brewing Company Hoppy Dog 6.5% | Larkins Brewing Company | American Style IPA | | | Ireland |
-| Country Winner - American Style IPA | Birra Del Borgo Reale Extra 6.4% | Birra Del Borgo | American Style IPA | | | Italy |
-| Country Winner - American Style IPA | Libushi Bashamichi Existing Is Exhausting 7.4% | Libushi Bashamichi | American Style IPA | | | Japan |
-| Country Winner - American Style IPA | 1812 Brewing Company Thousand Islands IPA 6.8% | 1812 Brewing Company | American Style IPA | | | United States |
-| World's Best Black IPA | zum WØL BrauArt Wolf Gang 6.6% | zum WØL BrauArt | Black IPA | | | Germany |
-| Country Winner - Black IPA | Rising Sons Brewery Uprising 5.1% | Rising Sons Brewery | Black IPA | | | Ireland |
-| World's Best English Style IPA | Therezópolis Jade 6.5% | Therezópolis | English Style IPA | | | Brazil |
-| Country Winner - English Style IPA | Mt. Begbie Brewing Co. Nasty Habit IPA 6% | Mt. Begbie Brewing Co. | English Style IPA | | | Canada |
-| Country Winner - English Style IPA | Hawkstone IPA 4.8% | Hawkstone | English Style IPA | | | England |
-| Country Winner - English Style IPA | Ninkasi French IPA 5.4% | Ninkasi | English Style IPA | | | France |
-| Country Winner - English Style IPA | Maisel & Friends India Ale 7.3% | Maisel & Friends | English Style IPA | | | Germany |
-| Country Winner - English Style IPA | Rising Sons Brewery Handsum 5% | Rising Sons Brewery | English Style IPA | | | Ireland |
-| Country Winner - English Style IPA | Mastri Birrai Umbri IPA 6.5% | Mastri Birrai Umbri | English Style IPA | | | Italy |
-| Country Winner - English Style IPA | Myoko Kogen Alpen Blick Beer Haneuma IPA 6% | Myoko Kogen | English Style IPA | | | Japan |
-| Country Winner - English Style IPA | Twisted Cat Dry Hopped IPA 6.5% | Twisted Cat | English Style IPA | | | Luxembourg |
-| Country Winner - English Style IPA | Buckskin Peak IPA 7% | Buckskin | English Style IPA | | | Taiwan |
-| World's Best Imperial/Double/DIPA | Ottakringer Brauwerk Avalanche 9.5% | Ottakringer Brauwerk | Imperial/Double/DIPA | | | Austria |
-| Country Winner - Imperial/Double/DIPA | Brewtous Shake Your Hops Double NEIPA 8.5% | Brewtous | Imperial/Double/DIPA | | | Belgium |
-| Country Winner - Imperial/Double/DIPA | Cerveja Stannis Magical Conceição 7.5% | Cerveja Stannis | Imperial/Double/DIPA | | | Brazil |
-| Country Winner - Imperial/Double/DIPA | Jing The Airpocalypse Double IPA 8% | Jing | Imperial/Double/DIPA | | | China |
-| Country Winner - Imperial/Double/DIPA | The Garden Brewery Plima 7.4% | The Garden Brewery | Imperial/Double/DIPA | | | Croatia |
-| Country Winner - Imperial/Double/DIPA | Too Old To Die Young Modern Westcoast DIPA 8% | Too Old To Die Young | Imperial/Double/DIPA | | | Denmark |
-| Country Winner - Imperial/Double/DIPA | Brique House La Bagarre 7.7% | Brique House | Imperial/Double/DIPA | | | France |
-| Country Winner - Imperial/Double/DIPA | Camba Imperial IPA 8.9% | Camba | Imperial/Double/DIPA | | | Germany |
-| Country Winner - Imperial/Double/DIPA | Birrificio Del Ducato Machete 7.6% | Birrificio Del Ducato | Imperial/Double/DIPA | | | Italy |
-| Country Winner - Imperial/Double/DIPA | Groundtap Brewery Uchiwa 8% | Groundtap Brewery | Imperial/Double/DIPA | | | Japan |
-| Country Winner - Imperial/Double/DIPA | Anti Establishment Double Hazy IPA 7.2% | Anti Establishment | Imperial/Double/DIPA | | | Scotland |
-| Country Winner - Imperial/Double/DIPA | No-Li Juicy Squatch 9.5% | No-Li | Imperial/Double/DIPA | | | United States |
-| World's Best Milkshake IPA/New England IPA | Noi Nuova Terra 6.4% | Noi | Milkshake IPA/New England IPA | | | Brazil |
-| Country Winner - Milkshake IPA/New England IPA | Trois Lacs Vau-Do 7% | Trois Lacs | Milkshake IPA/New England IPA | | | Canada |
-| Country Winner - Milkshake IPA/New England IPA | Tamango Brebajes Corta Corriente 6% | Tamango Brebajes | Milkshake IPA/New England IPA | | | Chile |
-| Country Winner - Milkshake IPA/New England IPA | Richkat Craft Brewing Star Boy 7% | Richkat Craft Brewing | Milkshake IPA/New England IPA | | | China |
-| Country Winner - Milkshake IPA/New England IPA | Twice Brewed Nectaronicon 6% | Twice Brewed | Milkshake IPA/New England IPA | | | England |
-| Country Winner - Milkshake IPA/New England IPA | Brasserie Chromatique Nuke Mars 6.9% | Brasserie Chromatique | Milkshake IPA/New England IPA | | | France |
-| Country Winner - Milkshake IPA/New England IPA | Störtebeker Brauspezialitäten New England IPA 6.8% | Störtebeker Brauspezialitäten | Milkshake IPA/New England IPA | | | Germany |
-| Country Winner - Milkshake IPA/New England IPA | Be Easy Brewing Tohoku 6 Hop IPA 6% | Be Easy Brewing | Milkshake IPA/New England IPA | | | Japan |
-| Country Winner - Milkshake IPA/New England IPA | La Growleria New England IPA 6.2% | La Growleria | Milkshake IPA/New England IPA | | | Spain |
-| Country Winner - Milkshake IPA/New England IPA | Chopfab Selection Ed. 53 6.9% | Chopfab | Milkshake IPA/New England IPA | | | Switzerland |
-| Country Winner - Milkshake IPA/New England IPA | Samuel Adams New England IPA 7% | Samuel Adams | Milkshake IPA/New England IPA | | | United States |
-| World's Best Session IPA | Brotas Beer La Axarca 5% | Brotas Beer | Session IPA | | | Brazil |
-| Country Winner - Session IPA | Microbrasserie Le Trou Du Diable Perroquet IPA 3.5% | Microbrasserie Le Trou Du Diable | Session IPA | | | Canada |
-| Country Winner - Session IPA | Jing A Hops Wonderland Hazy Session IPA 4.4% | Jing A | Session IPA | | | China |
-| Country Winner - Session IPA | Jiddler's Tipple Swifty Session IPA 3.4% | Jiddler's Tipple | Session IPA | | | England |
-| Country Winner - Session IPA | Pietra Summer Session IPA 4.5% | Pietra | Session IPA | | | France |
-| Country Winner - Session IPA | Astra Inkasso IPA 4.5% | Astra | Session IPA | | | Germany |
-| Country Winner - Session IPA | Our Brewery By Get'Er Brewed Hang Up Your Hang Ups Hazy IPA 4.2% | Our Brewery By Get'Er Brewed | Session IPA | | | Ireland |
-| Country Winner - Session IPA | Birra Del Borgo IPA 4% | Birra Del Borgo | Session IPA | | | Italy |
-| Country Winner - Session IPA | New York Beer Project Baby Crush 5% | New York Beer Project | Session IPA | | | United States |
-| World's Best Speciality IPA | Ottakringer Brauwerk Hellberry 5.9% | Ottakringer Brauwerk | Speciality IPA | | | Austria |
-| Country Winner - Speciality IPA | Forge IPA 7% | Forge | Speciality IPA | | | Belgium |
-| Country Winner - Speciality IPA | Unibroue Ce N'est Pas La Fin Du Monde 9.5% | Unibroue | Speciality IPA | | | Canada |
-| Country Winner - Speciality IPA | Goose Island China Hazy White IPA 5% | Goose Island China | Speciality IPA | | | China |
-| Country Winner - Speciality IPA | La Riff French IPA 7% | La Riff | Speciality IPA | | | France |
-| Country Winner - Speciality IPA | Birra Del Borgo Maledetta 6.2% | Birra Del Borgo | Speciality IPA | | | Italy |
-| Country Winner - Speciality IPA | Hansharo Beer Osakeman IPA 6.5% | Hansharo Beer | Speciality IPA | | | Japan |
-| Country Winner - Speciality IPA | New York Beer Project Hazy Crush 7.1% | New York Beer Project | Speciality IPA | | | United States |
-| World's Best Amber/Dark Kellerbier & Rotbier | Mill Street Brewery 100th Meridian Amber Lager 5% | Mill Street Brewery | Amber/Dark Kellerbier & Rotbier | | | Canada |
-| World's Best Bock | Therezópolis Rubine 6.5% | Therezópolis | Bock | | | Brazil |
-| Country Winner - Bock | Mallaskoski Baijermeijer Bock 6.5% | Mallaskoski | Bock | | | Finland |
-| Country Winner - Bock | Bayreuther Brauhaus Bockbier 6.8% | Bayreuther Brauhaus | Bock | | | Germany |
-| Country Winner - Bock | Grolsch Rijke Herfstbok 6.6% | Grolsch | Bock | | | Netherlands |
-| Country Winner - Bock | 1906 Black Coupage 7.2% | 1906 | Bock | | | Spain |
-| World's Best Classic Pilsener | Stiegl Pils 4.9% | Stiegl | Classic Pilsener | | | Austria |
-| Country Winner - Classic Pilsener | Martens 5.2 5.2% | Martens | Classic Pilsener | | | Belgium |
-| Country Winner - Classic Pilsener | Cervejaria Xaraés Premium Lager 5% | Cervejaria Xaraés | Classic Pilsener | | | Brazil |
-| Country Winner - Classic Pilsener | Archibald Brise Du Lac 4.8% | Archibald | Classic Pilsener | | | Canada |
-| Country Winner - Classic Pilsener | The Chevallier Brewing Company Pressburger Pils 4.8% | The Chevallier Brewing Company | Classic Pilsener | | | England |
-| Country Winner - Classic Pilsener | Perlenbacher Pilsner Lager 4.5% | Perlenbacher | Classic Pilsener | | | France |
-| Country Winner - Classic Pilsener | Waldhaus Diplom Pils 4.9% | Waldhaus | Classic Pilsener | | | Germany |
-| Country Winner - Classic Pilsener | Nissos Pilsner 5% | Nissos | Classic Pilsener | | | Greece |
-| Country Winner - Classic Pilsener | Lotus Indian Pale Lager 4.5% | Lotus | Classic Pilsener | | | Ireland |
-| Country Winner - Classic Pilsener | Birra Bionda Italian Beer 4.6% | Birra Bionda | Classic Pilsener | | | Italy |
-| Country Winner - Classic Pilsener | Shimanami Brewery Strike Pilsner 5.5% | Shimanami Brewery | Classic Pilsener | | | Japan |
-| Country Winner - Classic Pilsener | Lotte Chilsung Kloud Original 5% | Lotte Chilsung | Classic Pilsener | | | Korea |
-| Country Winner - Classic Pilsener | Bavaria Pilsener 5.1% | Bavaria | Classic Pilsener | | | Netherlands |
-| Country Winner - Classic Pilsener | Bauhinia Pilsner 5% | Bauhinia | Classic Pilsener | | | Philippines |
-| Country Winner - Classic Pilsener | Innis & Gunn Lager Beer 4.6% | Innis & Gunn | Classic Pilsener | | | Scotland |
-| Country Winner - Classic Pilsener | Lupia Herbal Nugget 4.8% | Lupia | Classic Pilsener | | | Spain |
-| Country Winner - Classic Pilsener | Chang Classic 4.8% | Chang | Classic Pilsener | | | Thailand |
-| Country Winner - Classic Pilsener | Pilsen 5.1% | | Classic Pilsener | | | Uruguay |
-| Country Winner - Classic Pilsener | Pulsar Silver 4% | Pulsar | Classic Pilsener | | | Uzbekistan |
-| Country Winner - Classic Pilsener | Wrexham Lager Beer Co Pilsener 4.6% | Wrexham Lager Beer Co | Classic Pilsener | | | Wales |
+| World's Best Altbier | Diebels Das Freundliche Alt 4.9% | Diebels | Altbier | Issum | North Rhine-Westphalia | Germany |
+| World's Best American Style Brown Ale | Frohenfeld Nantucket 5% | Frohenfeld | American Style Brown Ale | Blumenau | Santa Catarina | Brazil |
+| World's Best Barley Wine | Gulden Draak Classic 10.5% | Gulden Draak | Barley Wine | Ertvelde | East Flanders | Belgium |
+| Country Winner - Barley Wine | Peiping Machine Brewing Barrel-aged Barley Wine 14% | Peiping Machine Brewing | Barley Wine | Beijing | Beijing | China |
+| Country Winner - Barley Wine | Harvey's Christmas Ale 7.5% | Harvey's | Barley Wine | Lewes | East Sussex | England |
+| Country Winner - Barley Wine | Daisen B Beer Barley Wine 9% | Daisen B Beer | Barley Wine | Hoki-cho | Tottori Prefecture | Japan |
+| World's Best Belgian Style Dubbel | Petrus Dubbel 6.5% | Petrus | Belgian Style Dubbel | Bazel-Kruibeke | East Flanders | Belgium |
+| Country Winner - Belgian Style Dubbel | Unibroue Maudite 8% | Unibroue | Belgian Style Dubbel | Chambly | Quebec | Canada |
+| Country Winner - Belgian Style Dubbel | Kumbat Asura Belgian Beer 7% | Kumbat | Belgian Style Dubbel | Shanghai | Shanghai | China |
+| Country Winner - Belgian Style Dubbel | Cap D'Ona Ambree Triple 7.5% | Cap D'Ona | Belgian Style Dubbel | Céret | Pyrénées-Orientales | France |
+| World's Best Belgian Style Strong | Duivelsbier Dark 8% | Duivelsbier | Belgian Style Strong | Melle | East Flanders | Belgium |
+| Country Winner - Belgian Style Strong | Unibroue Trois Pistoles 9% | Unibroue | Belgian Style Strong | Chambly | Quebec | Canada |
+| Country Winner - Belgian Style Strong | Soko's Cosmic Walk 8.5% | Soko's | Belgian Style Strong | Santiago | Santiago Metropolitan Region | Chile |
+| Country Winner - Belgian Style Strong | Beijing Sonhoshin & Five Star Beer Co.Ltd The Forbidden City Amber Ale 10% | Beijing Sonhoshin & Five Star Beer Co.Ltd | Belgian Style Strong | Beijing | Beijing | China |
+| Country Winner - Belgian Style Strong | La Choue Brune 7.5% | La Choue | Belgian Style Strong | Mérignac | Nouvelle-Aquitaine | France |
+| Country Winner - Belgian Style Strong | Hertog Jan Grand Prestige 10% | Hertog Jan | Belgian Style Strong | Arcen | Limburg | Netherlands |
+| World's Best Belgian Style Triple | Corsendonk Agnus Tripel 7.5% | Corsendonk | Belgian Style Triple | Oud-Turnhout | Antwerp | Belgium |
+| Country Winner - Belgian Style Triple | Unibroue La Fin Du Monde 9% | Unibroue | Belgian Style Triple | Chambly | Quebec | Canada |
+| Country Winner - Belgian Style Triple | Beijing Sonhoshin & Five Star Beer Co.Ltd The Forbidden City Strong Ale 8.5% | Beijing Sonhoshin & Five Star Beer Co.Ltd | Belgian Style Triple | Beijing | Beijing | China |
+| Country Winner - Belgian Style Triple | Sainte Cru Harakiri 8% | Sainte Cru | Belgian Style Triple | Dijon | Burgundy-Franche-Comté | France |
+| Country Winner - Belgian Style Triple | Hertog Jan Tripel 8.5% | Hertog Jan | Belgian Style Triple | Arcen | Limburg | Netherlands |
+| Country Winner - Belgian Style Triple | Our Brewery By Get'Er Brewed Prime Time Of Your Life Belgian Triple 8% | Our Brewery By Get'Er Brewed | Belgian Style Triple | Banbridge | County Down | Ireland |
+| Country Winner - Belgian Style Triple | Birrificio Del Ducato Paradox 8% | Birrificio Del Ducato | Belgian Style Triple | Roncole Verdi | Emilia-Romagna | Italy |
+| World's Best English Style Brown Ale | Dragon Silver Premium Dark Beer 4.2% | Dragon | English Style Brown Ale | Phnom Penh | Phnom Penh | Cambodia |
+| Country Winner - English Style Brown Ale | Hobgoblin Ruby 4.5% | Hobgoblin | English Style Brown Ale | Witney | Oxfordshire | England |
+| World's Best Mild | Cowboy Trail Brewery Dark Ale 5% | Cowboy Trail Brewery | Mild | Bragg Creek | Alberta | Canada |
+| Country Winner - Mild | Harvey's Old Ale 3.6% | Harvey's | Mild | Lewes | East Sussex | England |
+| World's Best Strong | Gouden Carolus Classic 8.5% | Gouden Carolus | Strong | Mechelen | Antwerp | Belgium |
+| Country Winner - Strong | Tübinger Tübinator 8% | Tübinger | Strong | Santiago | Santiago Metropolitan Region | Chile |
+| Country Winner - Strong | Black Sheep Brewery Riggwelter 5.7% | Black Sheep Brewery | Strong | Masham | North Yorkshire | England |
+| Country Winner - Strong | Eku 28 11% | Eku | Strong | Kulmbach | Bavaria | Germany |
+| World's Best Chocolate & Coffee | Db Brewery Yunlin Coffee Stout 6.5% | Db Brewery | Chocolate & Coffee | Yunlin | Yunlin County | Taiwan |
+| World's Best Flavoured Stout & Porter | The Flying Dutchman Wake The Hell Up You Can Sleep In The Coffin Hazelnut Cappuccino Porter 7.5% | The Flying Dutchman | Flavoured Stout & Porter | Kortrijk | West Flanders | Belgium |
+| Country Winner - Flavoured Stout & Porter | Cerveja Stannis Antonieta Porter 5.2% | Cerveja Stannis | Flavoured Stout & Porter | São Paulo | São Paulo | Brazil |
+| Country Winner - Flavoured Stout & Porter | Sanktgallen Sweet Vanilla Stout 6.4% | Sanktgallen | Flavoured Stout & Porter | Atsugi | Kanagawa Prefecture | Japan |
+| Country Winner - Flavoured Stout & Porter | La Rana Dorada Coco Porter 5% | La Rana Dorada | Flavoured Stout & Porter | Panama City | Panamá Province | Panama |
+| World's Best Flavoured Wild & Sour Beer | Sampler Love Hurts 3.7% | Sampler | Flavoured Wild & Sour Beer | São Paulo | São Paulo | Brazil |
+| Country Winner - Flavoured Wild & Sour Beer | Jing Triple Berry Nectar 4.5% | Jing | Flavoured Wild & Sour Beer | Beijing | Beijing | China |
+| Country Winner - Flavoured Wild & Sour Beer | Wilde Leeuw Saison Mixte Framboise 6.5% | Wilde Leeuw | Flavoured Wild & Sour Beer | Villeneuve-d'Ascq | Hauts-de-France | France |
+| Country Winner - Flavoured Wild & Sour Beer | Braumarkt Gmbh The Salted Pepper Gose 4.4% | Braumarkt Gmbh | Flavoured Wild & Sour Beer | Hamburg | Hamburg | Germany |
+| World's Best Fruit & Vegetable | Gulden Draak Red 8% | Gulden Draak | Fruit & Vegetable | Ertvelde | East Flanders | Belgium |
+| Country Winner - Fruit & Vegetable | Baden Baden Passion 5.7% | Baden Baden | Fruit & Vegetable | Campos do Jordão | São Paulo | Brazil |
+| Country Winner - Fruit & Vegetable | Granville Island False Creek Raspberry Ale 4.5% | Granville Island | Fruit & Vegetable | Vancouver | British Columbia | Canada |
+| Country Winner - Fruit & Vegetable | Peiping Machine Brewing Green Bean Paste Wheat Beer 3.7% | Peiping Machine Brewing | Fruit & Vegetable | Beijing | Beijing | China |
+| Country Winner - Fruit & Vegetable | Octopus Beer Cyprus Grape Ale 9% | Octopus Beer | Fruit & Vegetable | Limassol | Limassol District | Cyprus |
+| Country Winner - Fruit & Vegetable | Brasserie Du Mont Blanc La Bleue 5.8% | Brasserie Du Mont Blanc | Fruit & Vegetable | La Roche-sur-Foron | Auvergne-Rhône-Alpes | France |
+| Country Winner - Fruit & Vegetable | Schöfferhofer Grapefruit 2.5% | Schöfferhofer | Fruit & Vegetable | Mainz | Rhineland-Palatinate | Germany |
+| Country Winner - Fruit & Vegetable | Spring Valley Brewery Jazzberry 5% | Spring Valley Brewery | Fruit & Vegetable | Tokyo | Tokyo | Japan |
+| Country Winner - Fruit & Vegetable | 8.6 Intense Cherry 7.2% | 8.6 | Fruit & Vegetable | Breda | North Brabant | Netherlands |
+| Country Winner - Fruit & Vegetable | Prison City Tangerine Wit 5% | Prison City | Fruit & Vegetable | Auburn | New York | United States |
+| World's Best Herb & Spice | Circus Herb Tripel 8.5% | Circus | Herb & Spice | Wevelgem | West Flanders | Belgium |
+| Country Winner - Herb & Spice | No.18 Brewery Osmanthus Oolong Beer 4.2% | No.18 Brewery | Herb & Spice | Nantou | Nantou County | China |
+| Country Winner - Herb & Spice | Cap D'Ona Blonde Gingembre 7% | Cap D'Ona | Herb & Spice | Céret | Pyrénées-Orientales | France |
+| Country Winner - Herb & Spice | Microbirrificio Artigianale Incanto 21 12 9.2% | Microbirrificio Artigianale | Herb & Spice | Apricena | Puglia | Italy |
+| Country Winner - Herb & Spice | Libushi Bashamichi Yuzu Bridge 5.5% | Libushi Bashamichi | Herb & Spice | Yokohama | Kanagawa Prefecture | Japan |
+| Country Winner - Herb & Spice | Hexbase Taiwan Four Seasons Tpring Tea Ale 5% | Hexbase | Herb & Spice | New Taipei | New Taipei City | Taiwan |
+| World's Best Honey & Maple Syrup | Whistler Brewing Bear Paw Honey Lager 5% | Whistler Brewing | Honey & Maple Syrup | Whistler | British Columbia | Canada |
+| Country Winner - Honey & Maple Syrup | Bière Du Vexin Véliocasse Ambrée Au Miel 7% | Bière Du Vexin | Honey & Maple Syrup | Théméricourt | Île-de-France | France |
+| World's Best Radlers & Beer Mixes | Opa Bier Radler 2.3% | Opa Bier | Radlers & Beer Mixes | Ribeirão Preto | São Paulo | Brazil |
+| Country Winner - Radlers & Beer Mixes | Richkat Craft Brewing Lychee Wulong Sour Ale 3.3% | Richkat Craft Brewing | Radlers & Beer Mixes | Foshan | Guangdong Province | China |
+| Country Winner - Radlers & Beer Mixes | Svijany Yuzu & Bergamot 0.3% | Svijany | Radlers & Beer Mixes | Svijany | Liberec Region | Czech Republic |
+| Country Winner - Radlers & Beer Mixes | Cap D'Ona La Clara 3.5% | Cap D'Ona | Radlers & Beer Mixes | Céret | Pyrénées-Orientales | France |
+| Country Winner - Radlers & Beer Mixes | Mönchshof Natur Radler Blutorange 2.5% | Mönchshof | Radlers & Beer Mixes | Kulmbach | Bavaria | Germany |
+| Country Winner - Radlers & Beer Mixes | Ushiku Brewing Cranberry Dream 3.5% | Ushiku Brewing | Radlers & Beer Mixes | Ushiku | Ibaraki Prefecture | Japan |
+| World's Best Smoke | Gulden Draak Smoke 10.5% | Gulden Draak | Smoke | Ertvelde | East Flanders | Belgium |
+| Country Winner - Smoke | Cervejaria Salva Salva D' Ouro Bacon 6.5% | Cervejaria Salva | Smoke | Araraquara | São Paulo | Brazil |
+| Country Winner - Smoke | Amsterdam Brewing Company Rauchbier 6% | Amsterdam Brewing Company | Smoke | Toronto | Ontario | Canada |
+| Country Winner - Smoke | Retour De Feu Bière Blonde 6.5% | Retour De Feu | Smoke | Bondoufle | Île-de-France | France |
+| Country Winner - Smoke | Weiherer Rauch 5.3% | Weiherer | Smoke | Aufsess | Bavaria | Germany |
+| Country Winner - Smoke | Fujizakura Heights Beer Rauch 5.5% | Fujizakura Heights Beer | Smoke | Kawaguchiko | Yamanashi Prefecture | Japan |
+| World's Best Spirit | Gouden Carolus Whisky Infused 11.7% | Gouden Carolus | Spirit | Mechelen | Antwerp | Belgium |
+| Country Winner - Spirit | Arber Brewing Le Chasseur 15% | Arber Brewing | Spirit | Beijing | Beijing | China |
+| Country Winner - Spirit | Cap D'Ona Rousse Au Marron 6.5% | Cap D'Ona | Spirit | Céret | Pyrénées-Orientales | France |
+| World's Best Wood Aged | Wildshut Bio Sonnenkönig Barrique 13.6% | Wildshut | Wood Aged | St. Pölten | Lower Austria | Austria |
+| Country Winner - Wood Aged | Swiekes Tripppel Whiskey Barrel Aged Edition 2025 9.1% | Swiekes | Wood Aged | Brugge | West Flanders | Belgium |
+| Country Winner - Wood Aged | Daoravida Terminus 2025 15.2% | Daoravida | Wood Aged | Campinas | São Paulo | Brazil |
+| Country Winner - Wood Aged | Microbrasserie Le Trou Du Diable L'impératrice - Brassin Spécial 11.5% | Microbrasserie Le Trou Du Diable | Wood Aged | Shawinigan | Quebec | Canada |
+| Country Winner - Wood Aged | Goose Island China Barrel Aged Stout 11% | Goose Island China | Wood Aged | Shanghai | Shanghai | China |
+| Country Winner - Wood Aged | Bradfield Brewery Belted Galloway 8.4% | Bradfield Brewery | Wood Aged | Sheffield | South Yorkshire | England |
+| Country Winner - Wood Aged | Cap D'Ona Wood Aged Maury 12.5% | Cap D'Ona | Wood Aged | Céret | Pyrénées-Orientales | France |
+| Country Winner - Wood Aged | Störtebeker Brauspezialitäten Scotch Ale Holzfassgereift 10% | Störtebeker Brauspezialitäten | Wood Aged | Stralsund | Mecklenburg-Vorpommern | Germany |
+| Country Winner - Wood Aged | Mcgill's Brewery An Coireán Barrel Aged Imperial Stout Batch 2 12.1% | Mcgill's Brewery | Wood Aged | Drogheda | County Louth | Ireland |
+| Country Winner - Wood Aged | Keller Holz Barrel Aged Ryewine 12% | Keller Holz | Wood Aged | Chișinău | Chișinău Municipality | Moldova |
+| Country Winner - Wood Aged | Hertog Jan Vatgerijpt Ierland 12.9% | Hertog Jan | Wood Aged | Arcen | Limburg | Netherlands |
+| Country Winner - Wood Aged | Innis & Gunn The Original 6.6% | Innis & Gunn | Wood Aged | Edinburgh | Edinburgh | Scotland |
+| Country Winner - Wood Aged | Mahou Barrica Bourbon 6.9% | Mahou | Wood Aged | Madrid | Community of Madrid | Spain |
+| Country Winner - Wood Aged | Folkes Malt Sessions Fatlagrad Barley Wine No2 15% | Folkes Malt Sessions | Wood Aged | Stockholm | Stockholm County | Sweden |
+| Country Winner - Wood Aged | Chopfab Selection Oak Wood Red Ale 7% | Chopfab | Wood Aged | Basel | Basel-Stadt | Switzerland |
+| World's Best American Style IPA | Colossal Brewing Mind Harvest 6% | Colossal Brewing | American Style IPA | Newcastle | New South Wales | Australia |
+| Country Winner - American Style IPA | Cerveja Stannis Dear Paula 6.5% | Cerveja Stannis | American Style IPA | São Paulo | São Paulo | Brazil |
+| Country Winner - American Style IPA | Stanley Park Brewing Trail Hopper IPA 6.8% | Stanley Park Brewing | American Style IPA | Vancouver | British Columbia | Canada |
+| Country Winner - American Style IPA | Loa Minga Loca 6.5% | Loa | American Style IPA | Santiago | Santiago Metropolitan Region | Chile |
+| Country Winner - American Style IPA | Hangzhou Cheerday Brewery Indian Pale Ale 6% | Hangzhou Cheerday Brewery | American Style IPA | Hangzhou | Zhejiang Province | China |
+| Country Winner - American Style IPA | The Chevallier Brewing Company Cornwallis Eye PA 5.6% | The Chevallier Brewing Company | American Style IPA | Exeter | Devon | England |
+| Country Winner - American Style IPA | Pyrite IPA 6.5% | Pyrite | American Style IPA | Paris | Île-de-France | France |
+| Country Winner - American Style IPA | Maisel & Friends Urban IPA 5.6% | Maisel & Friends | American Style IPA | Bayreuth | Bavaria | Germany |
+| Country Winner - American Style IPA | Larkins Brewing Company Hoppy Dog 6.5% | Larkins Brewing Company | American Style IPA | Chiddingstone | Kent | Ireland |
+| Country Winner - American Style IPA | Birra Del Borgo Reale Extra 6.4% | Birra Del Borgo | American Style IPA | Borgorose | Lazio | Italy |
+| Country Winner - American Style IPA | Libushi Bashamichi Existing Is Exhausting 7.4% | Libushi Bashamichi | American Style IPA | Yokohama | Kanagawa Prefecture | Japan |
+| Country Winner - American Style IPA | 1812 Brewing Company Thousand Islands IPA 6.8% | 1812 Brewing Company | American Style IPA | Alexandria Bay | New York | United States |
+| World's Best Black IPA | zum WØL BrauArt Wolf Gang 6.6% | zum WØL BrauArt | Black IPA | Bamberg | Bavaria | Germany |
+| Country Winner - Black IPA | Rising Sons Brewery Uprising 5.1% | Rising Sons Brewery | Black IPA | Dublin | County Dublin | Ireland |
+| World's Best English Style IPA | Therezópolis Jade 6.5% | Therezópolis | English Style IPA | Teresópolis | Rio de Janeiro | Brazil |
+| Country Winner - English Style IPA | Mt. Begbie Brewing Co. Nasty Habit IPA 6% | Mt. Begbie Brewing Co. | English Style IPA | Revelstoke | British Columbia | Canada |
+| Country Winner - English Style IPA | Hawkstone IPA 4.8% | Hawkstone | English Style IPA | Hawkstone | Shropshire | England |
+| Country Winner - English Style IPA | Ninkasi French IPA 5.4% | Ninkasi | English Style IPA | Lyon | Auvergne-Rhône-Alpes | France |
+| Country Winner - English Style IPA | Maisel & Friends India Ale 7.3% | Maisel & Friends | English Style IPA | Bayreuth | Bavaria | Germany |
+| Country Winner - English Style IPA | Rising Sons Brewery Handsum 5% | Rising Sons Brewery | English Style IPA | Dublin | County Dublin | Ireland |
+| Country Winner - English Style IPA | Mastri Birrai Umbri IPA 6.5% | Mastri Birrai Umbri | English Style IPA | Perugia | Umbria | Italy |
+| Country Winner - English Style IPA | Myoko Kogen Alpen Blick Beer Haneuma IPA 6% | Myoko Kogen | English Style IPA | Myōkō | Niigata Prefecture | Japan |
+| Country Winner - English Style IPA | Twisted Cat Dry Hopped IPA 6.5% | Twisted Cat | English Style IPA | Luxembourg City | Luxembourg District | Luxembourg |
+| Country Winner - English Style IPA | Buckskin Peak IPA 7% | Buckskin | English Style IPA | Taipei | Taipei City | Taiwan |
+| World's Best Imperial/Double/DIPA | Ottakringer Brauwerk Avalanche 9.5% | Ottakringer Brauwerk | Imperial/Double/DIPA | Vienna | Vienna | Austria |
+| Country Winner - Imperial/Double/DIPA | Brewtous Shake Your Hops Double NEIPA 8.5% | Brewtous | Imperial/Double/DIPA | Brussels | Brussels-Capital Region | Belgium |
+| Country Winner - Imperial/Double/DIPA | Cerveja Stannis Magical Conceição 7.5% | Cerveja Stannis | Imperial/Double/DIPA | São Paulo | São Paulo | Brazil |
+| Country Winner - Imperial/Double/DIPA | Jing The Airpocalypse Double IPA 8% | Jing | Imperial/Double/DIPA | Beijing | Beijing | China |
+| Country Winner - Imperial/Double/DIPA | The Garden Brewery Plima 7.4% | The Garden Brewery | Imperial/Double/DIPA | Zagreb | City of Zagreb | Croatia |
+| Country Winner - Imperial/Double/DIPA | Too Old To Die Young Modern Westcoast DIPA 8% | Too Old To Die Young | Imperial/Double/DIPA | Copenhagen | Capital Region | Denmark |
+| Country Winner - Imperial/Double/DIPA | Brique House La Bagarre 7.7% | Brique House | Imperial/Double/DIPA | Paris | Île-de-France | France |
+| Country Winner - Imperial/Double/DIPA | Camba Imperial IPA 8.9% | Camba | Imperial/Double/DIPA | Seeon-Seebruck | Bavaria | Germany |
+| Country Winner - Imperial/Double/DIPA | Birrificio Del Ducato Machete 7.6% | Birrificio Del Ducato | Imperial/Double/DIPA | Roncole Verdi | Emilia-Romagna | Italy |
+| Country Winner - Imperial/Double/DIPA | Groundtap Brewery Uchiwa 8% | Groundtap Brewery | Imperial/Double/DIPA | Tokyo | Tokyo | Japan |
+| Country Winner - Imperial/Double/DIPA | Anti Establishment Double Hazy IPA 7.2% | Anti Establishment | Imperial/Double/DIPA | Glasgow | Glasgow | Scotland |
+| Country Winner - Imperial/Double/DIPA | No-Li Juicy Squatch 9.5% | No-Li | Imperial/Double/DIPA | Spokane | Washington | United States |
+| World's Best Milkshake IPA/New England IPA | Noi Nuova Terra 6.4% | Noi | Milkshake IPA/New England IPA | São Paulo | São Paulo | Brazil |
+| Country Winner - Milkshake IPA/New England IPA | Trois Lacs Vau-Do 7% | Trois Lacs | Milkshake IPA/New England IPA | Chertsey | Quebec | Canada |
+| Country Winner - Milkshake IPA/New England IPA | Tamango Brebajes Corta Corriente 6% | Tamango Brebajes | Milkshake IPA/New England IPA | Santiago | Santiago Metropolitan Region | Chile |
+| Country Winner - Milkshake IPA/New England IPA | Richkat Craft Brewing Star Boy 7% | Richkat Craft Brewing | Milkshake IPA/New England IPA | Foshan | Guangdong Province | China |
+| Country Winner - Milkshake IPA/New England IPA | Twice Brewed Nectaronicon 6% | Twice Brewed | Milkshake IPA/New England IPA | Once Brewed | Northumberland | England |
+| Country Winner - Milkshake IPA/New England IPA | Brasserie Chromatique Nuke Mars 6.9% | Brasserie Chromatique | Milkshake IPA/New England IPA | Hérouville-Saint-Clair | Normandy | France |
+| Country Winner - Milkshake IPA/New England IPA | Störtebeker Brauspezialitäten New England IPA 6.8% | Störtebeker Brauspezialitäten | Milkshake IPA/New England IPA | Stralsund | Mecklenburg-Vorpommern | Germany |
+| Country Winner - Milkshake IPA/New England IPA | Be Easy Brewing Tohoku 6 Hop IPA 6% | Be Easy Brewing | Milkshake IPA/New England IPA | Tokyo | Tokyo | Japan |
+| Country Winner - Milkshake IPA/New England IPA | La Growleria New England IPA 6.2% | La Growleria | Milkshake IPA/New England IPA | Madrid | Community of Madrid | Spain |
+| Country Winner - Milkshake IPA/New England IPA | Chopfab Selection Ed. 53 6.9% | Chopfab | Milkshake IPA/New England IPA | Basel | Basel-Stadt | Switzerland |
+| Country Winner - Milkshake IPA/New England IPA | Samuel Adams New England IPA 7% | Samuel Adams | Milkshake IPA/New England IPA | Boston | Massachusetts | United States |
+| World's Best Session IPA | Brotas Beer La Axarca 5% | Brotas Beer | Session IPA | Brotas | São Paulo | Brazil |
+| Country Winner - Session IPA | Microbrasserie Le Trou Du Diable Perroquet IPA 3.5% | Microbrasserie Le Trou Du Diable | Session IPA | Shawinigan | Quebec | Canada |
+| Country Winner - Session IPA | Jing A Hops Wonderland Hazy Session IPA 4.4% | Jing A | Session IPA | Beijing | Beijing | China |
+| Country Winner - Session IPA | Jiddler's Tipple Swifty Session IPA 3.4% | Jiddler's Tipple | Session IPA | Malvern | Worcestershire | England |
+| Country Winner - Session IPA | Pietra Summer Session IPA 4.5% | Pietra | Session IPA | Furiani | Corsica | France |
+| Country Winner - Session IPA | Astra Inkasso IPA 4.5% | Astra | Session IPA | Hamburg | Hamburg | Germany |
+| Country Winner - Session IPA | Our Brewery By Get'Er Brewed Hang Up Your Hang Ups Hazy IPA 4.2% | Our Brewery By Get'Er Brewed | Session IPA | Banbridge | County Down | Ireland |
+| Country Winner - Session IPA | Birra Del Borgo IPA 4% | Birra Del Borgo | Session IPA | Borgorose | Lazio | Italy |
+| Country Winner - Session IPA | New York Beer Project Baby Crush 5% | New York Beer Project | Session IPA | Lockport | New York | United States |
+| World's Best Speciality IPA | Ottakringer Brauwerk Hellberry 5.9% | Ottakringer Brauwerk | Speciality IPA | Vienna | Vienna | Austria |
+| Country Winner - Speciality IPA | Forge IPA 7% | Forge | Speciality IPA | Ghent | East Flanders | Belgium |
+| Country Winner - Speciality IPA | Unibroue Ce N'est Pas La Fin Du Monde 9.5% | Unibroue | Speciality IPA | Chambly | Quebec | Canada |
+| Country Winner - Speciality IPA | Goose Island China Hazy White IPA 5% | Goose Island China | Speciality IPA | Shanghai | Shanghai | China |
+| Country Winner - Speciality IPA | La Riff French IPA 7% | La Riff | Speciality IPA | Lyon | Auvergne-Rhône-Alpes | France |
+| Country Winner - Speciality IPA | Birra Del Borgo Maledetta 6.2% | Birra Del Borgo | Speciality IPA | Borgorose | Lazio | Italy |
+| Country Winner - Speciality IPA | Hansharo Beer Osakeman IPA 6.5% | Hansharo Beer | Speciality IPA | Osaka | Osaka Prefecture | Japan |
+| Country Winner - Speciality IPA | New York Beer Project Hazy Crush 7.1% | New York Beer Project | Speciality IPA | Lockport | New York | United States |
+| World's Best Amber/Dark Kellerbier & Rotbier | Mill Street Brewery 100th Meridian Amber Lager 5% | Mill Street Brewery | Amber/Dark Kellerbier & Rotbier | Toronto | Ontario | Canada |
+| World's Best Bock | Therezópolis Rubine 6.5% | Therezópolis | Bock | Teresópolis | Rio de Janeiro | Brazil |
+| Country Winner - Bock | Mallaskoski Baijermeijer Bock 6.5% | Mallaskoski | Bock | Tampere | Pirkanmaa | Finland |
+| Country Winner - Bock | Bayreuther Brauhaus Bockbier 6.8% | Bayreuther Brauhaus | Bock | Bayreuth | Bavaria | Germany |
+| Country Winner - Bock | Grolsch Rijke Herfstbok 6.6% | Grolsch | Bock | Enschede | Overijssel | Netherlands |
+| Country Winner - Bock | 1906 Black Coupage 7.2% | 1906 | Bock | Valencia | Valencia | Spain |
+| World's Best Classic Pilsener | Stiegl Pils 4.9% | Stiegl | Classic Pilsener | Salzburg | Salzburg | Austria |
+| Country Winner - Classic Pilsener | Martens 5.2 5.2% | Martens | Classic Pilsener | Bocholt | Limburg | Belgium |
+| Country Winner - Classic Pilsener | Cervejaria Xaraés Premium Lager 5% | Cervejaria Xaraés | Classic Pilsener | Campo Grande | Mato Grosso do Sul | Brazil |
+| Country Winner - Classic Pilsener | Archibald Brise Du Lac 4.8% | Archibald | Classic Pilsener | Lac-Beauport | Quebec | Canada |
+| Country Winner - Classic Pilsener | The Chevallier Brewing Company Pressburger Pils 4.8% | The Chevallier Brewing Company | Classic Pilsener | Exeter | Devon | England |
+| Country Winner - Classic Pilsener | Perlenbacher Pilsner Lager 4.5% | Perlenbacher | Classic Pilsener | Strasbourg | Grand Est | France |
+| Country Winner - Classic Pilsener | Waldhaus Diplom Pils 4.9% | Waldhaus | Classic Pilsener | Waldhaus | Baden-Württemberg | Germany |
+| Country Winner - Classic Pilsener | Nissos Pilsner 5% | Nissos | Classic Pilsener | Tinos | South Aegean | Greece |
+| Country Winner - Classic Pilsener | Lotus Indian Pale Lager 4.5% | Lotus | Classic Pilsener | Dublin | County Dublin | Ireland |
+| Country Winner - Classic Pilsener | Birra Bionda Italian Beer 4.6% | Birra Bionda | Classic Pilsener | Milan | Lombardy | Italy |
+| Country Winner - Classic Pilsener | Shimanami Brewery Strike Pilsner 5.5% | Shimanami Brewery | Classic Pilsener | Onomichi | Hiroshima Prefecture | Japan |
+| Country Winner - Classic Pilsener | Lotte Chilsung Kloud Original 5% | Lotte Chilsung | Classic Pilsener | Seoul | Seoul Special City | Korea |
+| Country Winner - Classic Pilsener | Bavaria Pilsener 5.1% | Bavaria | Classic Pilsener | Lieshout | North Brabant | Netherlands |
+| Country Winner - Classic Pilsener | Bauhinia Pilsner 5% | Bauhinia | Classic Pilsener | Manila | Metro Manila | Philippines |
+| Country Winner - Classic Pilsener | Innis & Gunn Lager Beer 4.6% | Innis & Gunn | Classic Pilsener | Edinburgh | Edinburgh | Scotland |
+| Country Winner - Classic Pilsener | Lupia Herbal Nugget 4.8% | Lupia | Classic Pilsener | Madrid | Community of Madrid | Spain |
+| Country Winner - Classic Pilsener | Chang Classic 4.8% | Chang | Classic Pilsener | Bangkok | Bangkok | Thailand |
+| Country Winner - Classic Pilsener | Pilsen 5.1% | Pilsen | Classic Pilsener | Montevideo | Montevideo Department | Uruguay |
+| Country Winner - Classic Pilsener | Pulsar Silver 4% | Pulsar | Classic Pilsener | Tashkent | Tashkent Region | Uzbekistan |
+| Country Winner - Classic Pilsener | Wrexham Lager Beer Co Pilsener 4.6% | Wrexham Lager Beer Co | Classic Pilsener | Wrexham | Clwyd | Wales |
 | World's Best Czech Style Pale | Opa Bier Merecida 5% | Opa Bier | Czech Style Pale | | | Brazil |
 | Country Winner - Czech Style Pale | Krud Lite Premium Beer 4.2% | Krud | Czech Style Pale | | | Cambodia |
 | Country Winner - Czech Style Pale | Malayali Lager Pale & Light Lager 4.8% | Malayali | Czech Style Pale | | | Czech Republic |
-| Country Winner - Czech Style Pale | Ninkasi Blonde 4% | Ninkasi | Czech Style Pale | | | France |
+| Country Winner - Czech Style Pale | Ninkasi Blonde 4% | Ninkasi | Czech Style Pale | Lyon | Auvergne-Rhône-Alpes | France |
 | Country Winner - Czech Style Pale | Third Barrel Brewing Hello Yes 4.1% | Third Barrel Brewing | Czech Style Pale | | | Ireland |
 | Country Winner - Czech Style Pale | Super Bock Selecção 1927 Czech Golden Lager 5% | Super Bock | Czech Style Pale | | | Portugal |
 | World's Best Dark Lager | Hirter Morchel 5% | Hirter | Dark Lager | | | Austria |
