@@ -182,37 +182,37 @@
 | Country Winner - Classic Pilsener | Pilsen 5.1% | Pilsen | Classic Pilsener | Montevideo | Montevideo Department | Uruguay |
 | Country Winner - Classic Pilsener | Pulsar Silver 4% | Pulsar | Classic Pilsener | Tashkent | Tashkent Region | Uzbekistan |
 | Country Winner - Classic Pilsener | Wrexham Lager Beer Co Pilsener 4.6% | Wrexham Lager Beer Co | Classic Pilsener | Wrexham | Clwyd | Wales |
-| World's Best Czech Style Pale | Opa Bier Merecida 5% | Opa Bier | Czech Style Pale | | | Brazil |
-| Country Winner - Czech Style Pale | Krud Lite Premium Beer 4.2% | Krud | Czech Style Pale | | | Cambodia |
-| Country Winner - Czech Style Pale | Malayali Lager Pale & Light Lager 4.8% | Malayali | Czech Style Pale | | | Czech Republic |
+| World's Best Czech Style Pale | Opa Bier Merecida 5% | Opa Bier | Czech Style Pale | Ribeirão Preto | São Paulo | Brazil |
+| Country Winner - Czech Style Pale | Krud Lite Premium Beer 4.2% | Krud | Czech Style Pale | Phnom Penh | Phnom Penh | Cambodia |
+| Country Winner - Czech Style Pale | Malayali Lager Pale & Light Lager 4.8% | Malayali | Czech Style Pale | Warsaw | Mazovian Voivodeship | Poland |
 | Country Winner - Czech Style Pale | Ninkasi Blonde 4% | Ninkasi | Czech Style Pale | Lyon | Auvergne-Rhône-Alpes | France |
-| Country Winner - Czech Style Pale | Third Barrel Brewing Hello Yes 4.1% | Third Barrel Brewing | Czech Style Pale | | | Ireland |
-| Country Winner - Czech Style Pale | Super Bock Selecção 1927 Czech Golden Lager 5% | Super Bock | Czech Style Pale | | | Portugal |
-| World's Best Dark Lager | Hirter Morchel 5% | Hirter | Dark Lager | | | Austria |
-| Country Winner - Dark Lager | Therezópolis Ebenholz 5.5% | Therezópolis | Dark Lager | | | Brazil |
-| Country Winner - Dark Lager | Terre a boire Terre noire 5% | Terre a boire | Dark Lager | | | Canada |
-| Country Winner - Dark Lager | Cerveza Austral Yagan Dark 5% | Cerveza Austral | Dark Lager | | | Chile |
-| Country Winner - Dark Lager | Samson 1795 Original Czech Dark Lager 4.5% | Samson 1795 | Dark Lager | | | Czech Republic |
-| Country Winner - Dark Lager | Ayinger Altbairisch Dunkel 5% | Ayinger | Dark Lager | | | Germany |
-| Country Winner - Dark Lager | Monsuta Dark Lager 5% | Monsuta | Dark Lager | | | Japan |
-| Country Winner - Dark Lager | San Miguel Cerveza Negra 5% | San Miguel | Dark Lager | | | Philippines |
-| Country Winner - Dark Lager | Praxis Onyx 5.6% | Praxis | Dark Lager | | | Portugal |
-| Country Winner - Dark Lager | Maestra Dunkel 6.1% | Maestra | Dark Lager | | | Spain |
-| Country Winner - Dark Lager | Appenzeller Bier Schwarzer Kristall 6.3% | Appenzeller Bier | Dark Lager | | | Switzerland |
-| World's Best Dortmunder | Schwarzbräu Der Urtyp 5.5% | Schwarzbräu | Dortmunder | | | Germany |
-| World's Best Helles/Münchner | Ottakringer Lager 4.7% | Ottakringer | Helles/Münchner | | | Austria |
-| Country Winner - Helles/Münchner | Therezópolis Gold 5% | Therezópolis | Helles/Münchner | | | Brazil |
-| Country Winner - Helles/Münchner | Frampton Brasse Sieur De Léry 5% | Frampton Brasse | Helles/Münchner | | | Canada |
-| Country Winner - Helles/Münchner | Wadworth & Co Ltd To Helles And Back 4.5% | Wadworth & Co Ltd | Helles/Münchner | | | England |
-| Country Winner - Helles/Münchner | Weltenburger Kloster Hell 4.9% | Weltenburger Kloster | Helles/Münchner | | | Germany |
-| Country Winner - Helles/Münchner | Paolozzi Helles Lager 5.2% | Paolozzi | Helles/Münchner | | | Scotland |
-| Country Winner - Helles/Münchner | Boxer Blonde 4.8% | Boxer | Helles/Münchner | | | Switzerland |
-| World's Best Hoppy Pilsener | Stiegl Hopfenlager 5.1% | Stiegl | Hoppy Pilsener | | | Austria |
-| Country Winner - Hoppy Pilsener | Houppe Slip 4.5% | Houppe | Hoppy Pilsener | | | Belgium |
-| Country Winner - Hoppy Pilsener | Opa Bier Hop Lager 5.5% | Opa Bier | Hoppy Pilsener | | | Brazil |
-| Country Winner - Hoppy Pilsener | Krud Pilsner Beer 5% | Krud | Hoppy Pilsener | | | Cambodia |
-| Country Winner - Hoppy Pilsener | Tamango Brebajes The Green Room 5.5% | Tamango Brebajes | Hoppy Pilsener | | | Chile |
-| Country Winner - Hoppy Pilsener | Goose Island China Thirsty Goose 5% | Goose Island China | Hoppy Pilsener | | | China |
+| Country Winner - Czech Style Pale | Third Barrel Brewing Hello Yes 4.1% | Third Barrel Brewing | Czech Style Pale | Dublin | County Dublin | Ireland |
+| Country Winner - Czech Style Pale | Super Bock Selecção 1927 Czech Golden Lager 5% | Super Bock | Czech Style Pale | Matosinhos | Porto District | Portugal |
+| World's Best Dark Lager | Hirter Morchel 5% | Hirter | Dark Lager | Hirt | Carinthia | Austria |
+| Country Winner - Dark Lager | Therezópolis Ebenholz 5.5% | Therezópolis | Dark Lager | Teresópolis | Rio de Janeiro | Brazil |
+| Country Winner - Dark Lager | Terre a boire Terre noire 5% | Terre a boire | Dark Lager | Saint-Hyacinthe | Quebec | Canada |
+| Country Winner - Dark Lager | Cerveza Austral Yagan Dark 5% | Cerveza Austral | Dark Lager | Valdivia | Los Ríos Region | Chile |
+| Country Winner - Dark Lager | Samson 1795 Original Czech Dark Lager 4.5% | Samson 1795 | Dark Lager | České Budějovice | South Bohemian Region | Czech Republic |
+| Country Winner - Dark Lager | Ayinger Altbairisch Dunkel 5% | Ayinger | Dark Lager | Aying | Bavaria | Germany |
+| Country Winner - Dark Lager | Monsuta Dark Lager 5% | Monsuta | Dark Lager | Tokyo | Tokyo | Japan |
+| Country Winner - Dark Lager | San Miguel Cerveza Negra 5% | San Miguel | Dark Lager | Mandaluyong | Metro Manila | Philippines |
+| Country Winner - Dark Lager | Praxis Onyx 5.6% | Praxis | Dark Lager | Lisbon | Lisbon District | Portugal |
+| Country Winner - Dark Lager | Maestra Dunkel 6.1% | Maestra | Dark Lager | Madrid | Community of Madrid | Spain |
+| Country Winner - Dark Lager | Appenzeller Bier Schwarzer Kristall 6.3% | Appenzeller Bier | Dark Lager | Appenzell | Appenzell Innerrhoden | Switzerland |
+| World's Best Dortmunder | Schwarzbräu Der Urtyp 5.5% | Schwarzbräu | Dortmunder | Zusmarshausen | Bavaria | Germany |
+| World's Best Helles/Münchner | Ottakringer Lager 4.7% | Ottakringer | Helles/Münchner | Vienna | Vienna | Austria |
+| Country Winner - Helles/Münchner | Therezópolis Gold 5% | Therezópolis | Helles/Münchner | Teresópolis | Rio de Janeiro | Brazil |
+| Country Winner - Helles/Münchner | Frampton Brasse Sieur De Léry 5% | Frampton Brasse | Helles/Münchner | Frampton | Quebec | Canada |
+| Country Winner - Helles/Münchner | Wadworth & Co Ltd To Helles And Back 4.5% | Wadworth & Co Ltd | Helles/Münchner | Devizes | Wiltshire | England |
+| Country Winner - Helles/Münchner | Weltenburger Kloster Hell 4.9% | Weltenburger Kloster | Helles/Münchner | Weltenburg | Bavaria | Germany |
+| Country Winner - Helles/Münchner | Paolozzi Helles Lager 5.2% | Paolozzi | Helles/Münchner | Edinburgh | Edinburgh | Scotland |
+| Country Winner - Helles/Münchner | Boxer Blonde 4.8% | Boxer | Helles/Münchner | Basel | Basel-Stadt | Switzerland |
+| World's Best Hoppy Pilsener | Stiegl Hopfenlager 5.1% | Stiegl | Hoppy Pilsener | Salzburg | Salzburg | Austria |
+| Country Winner - Hoppy Pilsener | Houppe Slip 4.5% | Houppe | Hoppy Pilsener | Ghent | East Flanders | Belgium |
+| Country Winner - Hoppy Pilsener | Opa Bier Hop Lager 5.5% | Opa Bier | Hoppy Pilsener | Ribeirão Preto | São Paulo | Brazil |
+| Country Winner - Hoppy Pilsener | Krud Pilsner Beer 5% | Krud | Hoppy Pilsener | Phnom Penh | Phnom Penh | Cambodia |
+| Country Winner - Hoppy Pilsener | Tamango Brebajes The Green Room 5.5% | Tamango Brebajes | Hoppy Pilsener | Santiago | Santiago Metropolitan Region | Chile |
+| Country Winner - Hoppy Pilsener | Goose Island China Thirsty Goose 5% | Goose Island China | Hoppy Pilsener | Shanghai | Shanghai | China |
 | Country Winner - Hoppy Pilsener | Denham Brewing Co Hazy New England India Pale Lager 5.9% | Denham Brewing Co | Hoppy Pilsener | | | England |
 | Country Winner - Hoppy Pilsener | Tornion Panimo Arctic North Lager 5.5% | Tornion Panimo | Hoppy Pilsener | | | Finland |
 | Country Winner - Hoppy Pilsener | Schwarzbräu Ex & hop 5.4% | Schwarzbräu | Hoppy Pilsener | | | Germany |
@@ -224,51 +224,51 @@
 | Country Winner - International Lager | Martens Lager 5.2% | Martens | International Lager | | | Belgium |
 | Country Winner - International Lager | Huari Pilsener Lager 4.8% | Huari | International Lager | | | Bolivia |
 | Country Winner - International Lager | Breedom Lager 4.8% | Breedom | International Lager | | | Brazil |
-| Country Winner - International Lager | Archibald Bopére 5% | Archibald | International Lager | | | Canada |
+| Country Winner - International Lager | Archibald Bopére 5% | Archibald | International Lager | Lac-Beauport | Quebec | Canada |
 | Country Winner - International Lager | Becker 4.5% | Becker | International Lager | | | Chile |
 | Country Winner - International Lager | Goose Island China The Great Goose 4.5% | Goose Island China | International Lager | | | China |
-| Country Winner - International Lager | Super Natural Lager 4.4% | Super Natural | International Lager | | | England |
-| Country Winner - International Lager | Saint Premium 5.5% | Saint | International Lager | | | France |
-| Country Winner - International Lager | Schwarzbräu Exquisit 5.4% | Schwarzbräu | International Lager | | | Germany |
-| Country Winner - International Lager | Monte Carlo Premium 5.3% | Monte Carlo | International Lager | | | Guatemala |
-| Country Winner - International Lager | Kingfisher Ultra Lager Beer 4.8% | Kingfisher | International Lager | | | India |
-| Country Winner - International Lager | Le Grá Premium Irish Lager 4.5% | Le Grá | International Lager | | | Ireland |
-| Country Winner - International Lager | Birra Cala Passione 4.8% | Birra Cala | International Lager | | | Italy |
-| Country Winner - International Lager | Kirin Ichiban Toretate Hop 5.5% | Kirin Ichiban | International Lager | | | Japan |
-| Country Winner - International Lager | Lindeboom Pilsener 5% | Lindeboom | International Lager | | | Netherlands |
-| Country Winner - International Lager | Estrella Damm 5.4% | Estrella Damm | International Lager | | | Spain |
-| Country Winner - International Lager | Tommy's Lager 4.8% | Tommy's | International Lager | | | Trinidad And Tobago |
-| Country Winner - International Lager | Fathers Brewing Lager 4.9% | Fathers Brewing | International Lager | | | United States |
-| World's Best Light Lager | Cervejaria Xaraés Low Carb 4% | Cervejaria Xaraés | Light Lager | | | Brazil |
-| Country Winner - Light Lager | Ganzberg Snow 3.9% | Ganzberg | Light Lager | | | Cambodia |
-| Country Winner - Light Lager | Amsterdam Brewing Company 3 Speed Lager 4.2% | Amsterdam Brewing Company | Light Lager | | | Canada |
-| Country Winner - Light Lager | Pillars Haus Lager 3.5% | Pillars Haus | Light Lager | | | England |
-| Country Winner - Light Lager | Altenburger Sommerhell 3.5% | Altenburger | Light Lager | | | Germany |
-| Country Winner - Light Lager | Shimanami Brewery Float Lager 3.5% | Shimanami Brewery | Light Lager | | | Japan |
-| Country Winner - Light Lager | Charro Ultra 3.5% | Charro | Light Lager | | | Mexico |
-| Country Winner - Light Lager | Silver Key Light 3.6% | Silver Key | Light Lager | | | Puerto Rico |
-| Country Winner - Light Lager | Schützengarten Session Lager 3.8% | Schützengarten | Light Lager | | | Switzerland |
-| Country Winner - Light Lager | Fathers Brewing Lager 4.1% | Fathers Brewing | Light Lager | | | United States |
-| Country Winner - Light Lager | Gold Star Lager Beer 4.5% | Gold Star | Light Lager | | | Vietnam |
-| World's Best Seasonal Maibock/Helles Bock | Archibald Double Blonde 8% | Archibald | Seasonal Maibock/Helles Bock | | | Canada |
-| Country Winner - Seasonal Maibock/Helles Bock | Alfa Bier Krachtig Dort 7.5% | Alfa Bier | Seasonal Maibock/Helles Bock | | | Netherlands |
-| Country Winner - Seasonal Maibock/Helles Bock | 1906 La Milnueve 6.5% | 1906 | Seasonal Maibock/Helles Bock | | | Spain |
-| World's Best Seasonal Oktoberfestbier/Märzen | Greif Bräu Anna Festbier 5.5% | Greif Bräu | Seasonal Oktoberfestbier/Märzen | | | Germany |
-| Country Winner - Seasonal Oktoberfestbier/Märzen | Spring Valley Brewery Hojun Lager 496 6% | Spring Valley Brewery | Seasonal Oktoberfestbier/Märzen | | | Japan |
-| Country Winner - Seasonal Oktoberfestbier/Märzen | La Sagra Doble Malta 6.4% | La Sagra | Seasonal Oktoberfestbier/Märzen | | | Spain |
-| World's Best Vienna Lager | Andes Origen Roja 5.2% | Andes Origen | Vienna Lager | | | Argentina |
-| Country Winner - Vienna Lager | Hirter 1270 4.9% | Hirter | Vienna Lager | | | Austria |
-| Country Winner - Vienna Lager | Big John Vienna Lager 4.8% | Big John | Vienna Lager | | | Brazil |
-| Country Winner - Vienna Lager | Sainte-Catherine Vienna Lager 5.1% | Sainte-Catherine | Vienna Lager | | | Canada |
-| Country Winner - Vienna Lager | Brooklyn Lager 5.1% | Brooklyn | Vienna Lager | | | China |
-| Country Winner - Vienna Lager | Pietra Ambrée 6% | Pietra | Vienna Lager | | | France |
-| Country Winner - Vienna Lager | Pott's Landbier 4.8% | Pott's | Vienna Lager | | | Germany |
-| Country Winner - Vienna Lager | Ambar Export 7% | Ambar | Vienna Lager | | | Spain |
-| Country Winner - Vienna Lager | Appenzeller Bier Brandlöscher 4.8% | Appenzeller Bier | Vienna Lager | | | Switzerland |
-| World's Best Zwickl/Pale Kellerbier | Eisenbahn Pilsen Unfiltered 4.8% | Eisenbahn | Zwickl/Pale Kellerbier | | | Brazil |
-| Country Winner - Zwickl/Pale Kellerbier | Hirsch Zwickl 5.2% | Hirsch | Zwickl/Pale Kellerbier | | | Germany |
-| Country Winner - Zwickl/Pale Kellerbier | Daisen G Beer Pilsner 5% | Daisen G Beer | Zwickl/Pale Kellerbier | | | Japan |
-| Country Winner - Zwickl/Pale Kellerbier | Schützengarten Säntisbier 5.2% | Schützengarten | Zwickl/Pale Kellerbier | | | Switzerland |
+| Country Winner - International Lager | Super Natural Lager 4.4% | Super Natural | International Lager | London | Greater London | England |
+| Country Winner - International Lager | Saint Premium 5.5% | Saint | International Lager | Paris | Île-de-France | France |
+| Country Winner - International Lager | Schwarzbräu Exquisit 5.4% | Schwarzbräu | International Lager | Zusmarshausen | Bavaria | Germany |
+| Country Winner - International Lager | Monte Carlo Premium 5.3% | Monte Carlo | International Lager | Guatemala City | Guatemala Department | Guatemala |
+| Country Winner - International Lager | Kingfisher Ultra Lager Beer 4.8% | Kingfisher | International Lager | Bangalore | Karnataka | India |
+| Country Winner - International Lager | Le Grá Premium Irish Lager 4.5% | Le Grá | International Lager | Cork | County Cork | Ireland |
+| Country Winner - International Lager | Birra Cala Passione 4.8% | Birra Cala | International Lager | Rome | Lazio | Italy |
+| Country Winner - International Lager | Kirin Ichiban Toretate Hop 5.5% | Kirin Ichiban | International Lager | Tokyo | Tokyo | Japan |
+| Country Winner - International Lager | Lindeboom Pilsener 5% | Lindeboom | International Lager | Neer | Limburg | Netherlands |
+| Country Winner - International Lager | Estrella Damm 5.4% | Estrella Damm | International Lager | Barcelona | Catalonia | Spain |
+| Country Winner - International Lager | Tommy's Lager 4.8% | Tommy's | International Lager | Port of Spain | City of Port of Spain | Trinidad And Tobago |
+| Country Winner - International Lager | Fathers Brewing Lager 4.9% | Fathers Brewing | International Lager | Denver | Colorado | United States |
+| World's Best Light Lager | Cervejaria Xaraés Low Carb 4% | Cervejaria Xaraés | Light Lager | Campo Grande | Mato Grosso do Sul | Brazil |
+| Country Winner - Light Lager | Ganzberg Snow 3.9% | Ganzberg | Light Lager | Phnom Penh | Phnom Penh | Cambodia |
+| Country Winner - Light Lager | Amsterdam Brewing Company 3 Speed Lager 4.2% | Amsterdam Brewing Company | Light Lager | Toronto | Ontario | Canada |
+| Country Winner - Light Lager | Pillars Haus Lager 3.5% | Pillars Haus | Light Lager | London | Greater London | England |
+| Country Winner - Light Lager | Altenburger Sommerhell 3.5% | Altenburger | Light Lager | Altenburg | Thuringia | Germany |
+| Country Winner - Light Lager | Shimanami Brewery Float Lager 3.5% | Shimanami Brewery | Light Lager | Onomichi | Hiroshima Prefecture | Japan |
+| Country Winner - Light Lager | Charro Ultra 3.5% | Charro | Light Lager | Guadalajara | Jalisco | Mexico |
+| Country Winner - Light Lager | Silver Key Light 3.6% | Silver Key | Light Lager | Bayamón | Bayamón Municipality | Puerto Rico |
+| Country Winner - Light Lager | Schützengarten Session Lager 3.8% | Schützengarten | Light Lager | St. Gallen | St. Gallen | Switzerland |
+| Country Winner - Light Lager | Fathers Brewing Lager 4.1% | Fathers Brewing | Light Lager | Denver | Colorado | United States |
+| Country Winner - Light Lager | Gold Star Lager Beer 4.5% | Gold Star | Light Lager | Ho Chi Minh City | Ho Chi Minh City | Vietnam |
+| World's Best Seasonal Maibock/Helles Bock | Archibald Double Blonde 8% | Archibald | Seasonal Maibock/Helles Bock | Lac-Beauport | Quebec | Canada |
+| Country Winner - Seasonal Maibock/Helles Bock | Alfa Bier Krachtig Dort 7.5% | Alfa Bier | Seasonal Maibock/Helles Bock | Schinnen | Limburg | Netherlands |
+| Country Winner - Seasonal Maibock/Helles Bock | 1906 La Milnueve 6.5% | 1906 | Seasonal Maibock/Helles Bock | Valencia | Valencia | Spain |
+| World's Best Seasonal Oktoberfestbier/Märzen | Greif Bräu Anna Festbier 5.5% | Greif Bräu | Seasonal Oktoberfestbier/Märzen | Forchheim | Bavaria | Germany |
+| Country Winner - Seasonal Oktoberfestbier/Märzen | Spring Valley Brewery Hojun Lager 496 6% | Spring Valley Brewery | Seasonal Oktoberfestbier/Märzen | Tokyo | Tokyo | Japan |
+| Country Winner - Seasonal Oktoberfestbier/Märzen | La Sagra Doble Malta 6.4% | La Sagra | Seasonal Oktoberfestbier/Märzen | Toledo | Castile-La Mancha | Spain |
+| World's Best Vienna Lager | Andes Origen Roja 5.2% | Andes Origen | Vienna Lager | Mendoza | Mendoza Province | Argentina |
+| Country Winner - Vienna Lager | Hirter 1270 4.9% | Hirter | Vienna Lager | Hirt | Carinthia | Austria |
+| Country Winner - Vienna Lager | Big John Vienna Lager 4.8% | Big John | Vienna Lager | São Paulo | São Paulo | Brazil |
+| Country Winner - Vienna Lager | Sainte-Catherine Vienna Lager 5.1% | Sainte-Catherine | Vienna Lager | Montreal | Quebec | Canada |
+| Country Winner - Vienna Lager | Brooklyn Lager 5.1% | Brooklyn | Vienna Lager | Shanghai | Shanghai | China |
+| Country Winner - Vienna Lager | Pietra Ambrée 6% | Pietra | Vienna Lager | Furiani | Corsica | France |
+| Country Winner - Vienna Lager | Pott's Landbier 4.8% | Pott's | Vienna Lager | Oelde | North Rhine-Westphalia | Germany |
+| Country Winner - Vienna Lager | Ambar Export 7% | Ambar | Vienna Lager | Zaragoza | Aragon | Spain |
+| Country Winner - Vienna Lager | Appenzeller Bier Brandlöscher 4.8% | Appenzeller Bier | Vienna Lager | Appenzell | Appenzell Innerrhoden | Switzerland |
+| World's Best Zwickl/Pale Kellerbier | Eisenbahn Pilsen Unfiltered 4.8% | Eisenbahn | Zwickl/Pale Kellerbier | Blumenau | Santa Catarina | Brazil |
+| Country Winner - Zwickl/Pale Kellerbier | Hirsch Zwickl 5.2% | Hirsch | Zwickl/Pale Kellerbier | Würth | Bavaria | Germany |
+| Country Winner - Zwickl/Pale Kellerbier | Daisen G Beer Pilsner 5% | Daisen G Beer | Zwickl/Pale Kellerbier | Hoki-cho | Tottori Prefecture | Japan |
+| Country Winner - Zwickl/Pale Kellerbier | Schützengarten Säntisbier 5.2% | Schützengarten | Zwickl/Pale Kellerbier | St. Gallen | St. Gallen | Switzerland |
 
 ## Summary
 
